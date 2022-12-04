@@ -24,3 +24,5 @@ install requirements using:
 ```
 pip install requirements.txt
 bash setup.py
+```
+#### Thank you for using❤
