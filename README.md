@@ -25,4 +25,7 @@ install requirements using:
 pip install requirements.txt
 bash setup.py
 ```
-#### Thank you for using❤
+#### CREDITS
+Code written by 
+
+### Thank you for using❤
